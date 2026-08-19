@@ -188,18 +188,7 @@ AI-Powered Applications
 Cloud & DevOps
 ```
 
----
 
-## 🎯 2026 Goals
-
-* 🚀 Build more production-grade applications
-* 🤖 Explore advanced AI integrations
-* 🏗️ Improve system design & architecture skills
-* ☁️ Deepen AWS & DevOps knowledge
-* 💻 Contribute to open-source projects
-* 📚 Strengthen DSA & problem-solving skills
-
----
 
 ## 🤝 Let's Connect
 
