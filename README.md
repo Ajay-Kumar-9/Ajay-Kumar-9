@@ -100,6 +100,8 @@ A collaborative coding environment designed for developers to work together in r
 
 **Tech:** `Next.js` `TypeScript` `Node.js` `Express.js` `Socket.io` `WebRTC` `Redis` `Docker`
 
+🔗 **Live Demo:** https://code-rush-two.vercel.app/
+
 ---
 
 ### 🎤 TalkPrep
@@ -144,26 +146,9 @@ A complete eCommerce application focused on product discovery, cart management a
 
 **Tech:** `React` `Redux` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
----
+🔗 **Live Demo:** https://shop-ease-bay-chi.vercel.app/
 
-### 📋 Listing App
 
-**Full-Stack Content Listing Platform**
-
-A CRUD-based platform for creating and managing user-generated listings.
-
-**Features:**
-
-* ✨ Full CRUD functionality
-* 🔐 Passport.js authentication
-* 🛡️ Protected routes
-* 👤 Session management
-* ☁️ Cloud image uploads
-* 🗄️ MongoDB persistence
-
-**Tech:** `Node.js` `Express.js` `EJS` `MongoDB` `Bootstrap` `Passport.js`
-
----
 
 ## 💼 Experience
 
@@ -187,22 +172,7 @@ A CRUD-based platform for creating and managing user-generated listings.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-9&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Kumar-9&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ajay-Kumar-9&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🧠 Currently Learning
 
